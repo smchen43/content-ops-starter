@@ -32,7 +32,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/demo.psd.png
+      url: /images/demo.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
