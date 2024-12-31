@@ -24,7 +24,7 @@ sections:
         type: Button
       - label: look at my sh*ty google site
         altText: ''
-        url: /
+        url: 'https://sites.google.com/view/okanisconfigs/home'
         showIcon: true
         icon: arrowRight
         iconPosition: right
