@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
       - label: look at my sh*ty google site
-        altText: ''
+        altText: 'why :_)'
         url: 'https://sites.google.com/view/okanisconfigs/home'
         showIcon: true
         icon: arrowRight
