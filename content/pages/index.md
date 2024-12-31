@@ -53,8 +53,7 @@ sections:
           - pr-16
   - subtitle: what are the clients from
     images:
-      - url: /images/mad.jpg
-        altText: Empathy logo
+      - altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
