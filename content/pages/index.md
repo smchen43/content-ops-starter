@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: look at my sh*ty google site
         altText: ''
         url: /
         showIcon: true
