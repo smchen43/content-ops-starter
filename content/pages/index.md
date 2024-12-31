@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: a client/config archive made by okani7089
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
