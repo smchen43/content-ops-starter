@@ -1,15 +1,6 @@
 {
     "primaryLinks": [
         {
-            "label": "archive",
-            "altText": "idk",
-            "url": "/archive",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Button",
             "label": "Get started",
             "altText": "",
