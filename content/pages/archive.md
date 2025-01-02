@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: This is the subtitle for the pricing section
+    subtitle: 'links to archive :0'
     plans:
       - type: PricingPlan
         title: Developers
