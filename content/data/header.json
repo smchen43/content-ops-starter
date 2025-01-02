@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "type": "Button",
-            "label": "archive]",
+            "label": "archive",
             "altText": "",
             "url": "/archive",
             "showIcon": false,
