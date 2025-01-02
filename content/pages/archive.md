@@ -53,7 +53,7 @@ sections:
         actions:
           - type: Button
             label: click for 1.8.9 clients
-            url: /
+            url: 'https://app.mediafire.com/61am65j8myo77'
             icon: arrowRight
             iconPosition: right
             style: secondary
