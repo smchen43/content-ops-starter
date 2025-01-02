@@ -18,8 +18,7 @@ sections:
         details: No credit card required
         description: |
           configs for raven forks
-        features:
-          - ''
+        features: []
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-01-01 230551.png
