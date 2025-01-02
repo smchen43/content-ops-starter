@@ -52,7 +52,7 @@ sections:
           altText: Pricing plan 2
         actions:
           - type: Button
-            label: Try for free
+            label: click for 1.8.9 clients
             url: /
             icon: arrowRight
             iconPosition: right
