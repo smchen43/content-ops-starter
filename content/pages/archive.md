@@ -47,8 +47,7 @@ sections:
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
-        features:
-          - Feature one
+        features: []
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-01-01 230508.png
