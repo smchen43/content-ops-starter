@@ -68,7 +68,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Enterprise
+        title: 1.8.9 mod folder
         price: Free
         details: per month
         description: >-
