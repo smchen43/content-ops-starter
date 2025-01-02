@@ -13,7 +13,7 @@
         },
         {
             "type": "Button",
-            "label": "intro",
+            "label": "start",
             "altText": "",
             "url": "/",
             "showIcon": false,
