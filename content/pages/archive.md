@@ -43,7 +43,7 @@ sections:
       - type: PricingPlan
         title: client
         price: Free
-        details: per month
+        details: idk
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
