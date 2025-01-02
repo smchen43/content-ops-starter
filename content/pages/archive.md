@@ -80,7 +80,7 @@ sections:
         actions:
           - type: Button
             label: click for 1.8.9 mod folder
-            url: /
+            url: 'https://app.mediafire.com/wswsgtj9va46v'
             icon: arrowRight
             iconPosition: right
             style: secondary
