@@ -41,7 +41,7 @@ sections:
               - pr-6
             borderRadius: large
       - type: PricingPlan
-        title: Professional
+        title: client
         price: Free
         details: per month
         description: >-
