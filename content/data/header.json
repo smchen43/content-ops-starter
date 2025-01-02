@@ -22,7 +22,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "configs",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
