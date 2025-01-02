@@ -70,7 +70,7 @@ sections:
       - type: PricingPlan
         title: 1.8.9 mod folder
         price: Free
-        details: per month
+        details: Que?
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
