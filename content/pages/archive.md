@@ -79,7 +79,7 @@ sections:
           altText: Pricing plan 3
         actions:
           - type: Button
-            label: Contact us
+            label: click for 1.8.9 mod folder
             url: /
             icon: arrowRight
             iconPosition: right
