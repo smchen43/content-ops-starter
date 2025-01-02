@@ -16,9 +16,8 @@ sections:
         title: configs
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          configs for raven forks
         features:
           - ''
         image:
