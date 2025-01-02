@@ -26,7 +26,7 @@ sections:
           - Feature four
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2025-01-01 230551.png
           altText: Pricing plan 1
         actions:
           - type: Button
