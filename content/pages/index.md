@@ -14,7 +14,7 @@ sections:
       git commit, git workflows and collaboration just work.
     actions:
       - label: Click for the archives
-        altText: ''
+        altText: 'yassify :]'
         url: 'https://www.mediafire.com/folder/61am65j8myo77/clients'
         showIcon: false
         icon: arrowRight
