@@ -13,15 +13,6 @@ sections:
       instantly reflected in the visual editor and since every visual edit is a
       git commit, git workflows and collaboration just work.
     actions:
-      - label: Click for the archives
-        altText: 'yassify :]'
-        url: 'https://www.mediafire.com/folder/61am65j8myo77/clients'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: look at my sh*ty google site
         altText: 'why :_)'
         url: 'https://sites.google.com/view/okanisconfigs/home'
