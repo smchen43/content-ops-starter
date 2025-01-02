@@ -69,7 +69,7 @@ sections:
             borderRadius: large
       - type: PricingPlan
         title: Enterprise
-        price: Custom
+        price: Free
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
