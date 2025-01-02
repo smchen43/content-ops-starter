@@ -26,7 +26,7 @@ sections:
         actions:
           - type: Button
             label: click for configs
-            url: /
+            url: 'https://app.mediafire.com/8vxqyfpvfd8wu'
             icon: arrowRight
             iconPosition: right
             style: secondary
