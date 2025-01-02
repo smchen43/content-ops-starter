@@ -14,7 +14,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "clients",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
