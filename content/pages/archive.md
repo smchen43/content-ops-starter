@@ -77,7 +77,6 @@ sections:
           - Feature two
           - Feature three
           - Feature four
-          - Feature five
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-01-01 230621.png
