@@ -21,7 +21,6 @@ sections:
           accusantium doloremque.
         features:
           - Feature one
-          - Feature two
           - ''
         image:
           type: ImageBlock
