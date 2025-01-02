@@ -13,7 +13,7 @@ sections:
     subtitle: 'links to archive :0'
     plans:
       - type: PricingPlan
-        title: Developers
+        title: configs
         price: Free
         details: No credit card required
         description: >-
