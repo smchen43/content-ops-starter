@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Click for the archives
         altText: ''
-        url: /
+        url: 'https://www.mediafire.com/folder/61am65j8myo77/clients'
         showIcon: false
         icon: arrowRight
         iconPosition: right
