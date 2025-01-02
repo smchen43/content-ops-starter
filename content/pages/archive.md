@@ -44,9 +44,8 @@ sections:
         title: client
         price: Free
         details: idk
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          these are just raven forks/skids :D
         features: []
         image:
           type: ImageBlock
