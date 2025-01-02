@@ -22,6 +22,7 @@ sections:
         features:
           - Feature one
           - Feature two
+          - ''
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-01-01 230551.png
