@@ -74,7 +74,6 @@ sections:
           this is a 1.8.9 forge mod folder made by me >:]
         features:
           - Feature one
-          - Feature two
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-01-01 230621.png
